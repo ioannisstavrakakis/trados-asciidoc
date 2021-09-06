@@ -1,5 +1,5 @@
 # trados-asciidoc
-Trados File Type Setting for AsciiDoc
+Trados Regular Expression File Type Setting for AsciiDoc
 
 # Explanation of Rules
 ## Document structure
